@@ -20,3 +20,13 @@
 | 🔒 Secure Communication | Data should be protected from unauthorized access |
  
 ---
+
+## 🖥️ Communication System
+ 
+> A **communication system** is a group of components that work together to **transfer and process information**.
+ 
+### Types of Communication System
+ 
+1. **Analog** Communication System
+2. **Digital** Communication System
+---
