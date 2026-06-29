@@ -32,4 +32,36 @@ Transmission Media
 | **Wireless (Unguided)** | Uses air or free space, no cable needed | Radio waves, satellite |
  
 ---
+
+## 🔌 Physical Transmission Media (Guided)
+ 
+> Guided media are **tangible (physical)** transmission media.
+ 
+---
+ 
+### 1. 🔀 Twisted-Pair Cable
+- Consists of one or more **twisted copper wires**
+- Made of **copper**
+- Used in:
+  - Telephone systems
+  - LANs (Local Area Networks)
+---
+ 
+### 2. 📺 Coaxial Cable
+- Contains a **single copper wire** with insulating and metal layers around it
+- Provides **better protection** from interference
+- Commonly used in **cable TV networks**
+---
+ 
+### 3. 💡 Fiber-Optic Cable
+- Made of **thin strands of glass or plastic**
+- Transmits data using **light signals**
+| Feature | Detail |
+|---------|--------|
+| Capacity | Very **high** |
+| Noise | Very **low** |
+| Size | **Small** |
+| Natural disturbances | **Less affected** |
+ 
+---
  
