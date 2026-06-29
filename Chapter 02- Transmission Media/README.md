@@ -64,4 +64,63 @@ Transmission Media
 | Natural disturbances | **Less affected** |
  
 ---
+
+## 📶 Unguided Media (Wireless)
  
+- Transmits data **without any physical cable**
+- Uses **electromagnetic waves** to carry signals
+- This type of communication = **Wireless Communication**
+**Examples:**
+- Radio waves
+- Microwaves
+- Infrared
+- Satellite communication
+**Advantages:**
+ 
+| # | Advantage |
+|---|-----------|
+| 1 | No cable needed |
+| 2 | Easy to install |
+| 3 | Supports **mobile communication** |
+ 
+---
+ 
+## 📻 Wireless Transmission Media
+ 
+### 1. 📡 Radio Waves
+- Used for wireless communication over **long distances**
+- Uses an **antenna**
+- Supports both **short and long-range** communication
+#### Broadcast Radio
+- Sends signals **through the air**
+- Mainly used for **fixed (stationary)** locations
+#### Cellular Radio
+- Used for **mobile communication**
+- Transmits voice and data using **high-frequency radio waves**
+- Uses **frequency reuse** to improve network capacity
+---
+ 
+### 2. 🛰️ Microwaves
+- **High-speed** radio waves
+- Used for **point-to-point** communication
+- Requires a **clear path** (no obstacles)
+- Commonly used in **satellite communication**
+---
+ 
+### 3. 🔦 Infrared (IR)
+- Uses **infrared light waves** to transmit data
+- Suitable for **short-distance** communication
+- **Example:** TV remote control
+---
+ 
+## 🔁 Quick Comparison: Guided vs Unguided
+ 
+| Feature | Guided (Physical) | Unguided (Wireless) |
+|---------|-------------------|----------------------|
+| Medium | Wire / Cable | Air / Free space |
+| Installation | Complex | Easy |
+| Mobility | Fixed | Mobile-friendly |
+| Interference | Low | Higher |
+| Example | Fiber optic, Coaxial | Radio, Microwave, IR |
+ 
+---
