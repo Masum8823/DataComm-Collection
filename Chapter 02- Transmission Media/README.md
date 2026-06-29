@@ -17,3 +17,19 @@
 > 📉 **Lower bandwidth = Slower data transfer**
  
 ---
+
+## 🗂️ Classes of Transmission Media
+ 
+```
+Transmission Media
+├── 1. Physical (Guided Media)   → uses wire/cable
+└── 2. Wireless (Unguided Media) → uses air/free space
+```
+ 
+| Type | Description | Example |
+|------|-------------|---------|
+| **Physical (Guided)** | Uses wire or cable to carry signals | Copper wire, fiber optic |
+| **Wireless (Unguided)** | Uses air or free space, no cable needed | Radio waves, satellite |
+ 
+---
+ 
