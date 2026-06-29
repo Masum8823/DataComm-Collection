@@ -84,3 +84,24 @@ Converts the electrical signal into a **usable form**.
 - Computer (PC)
 - Tape recorder
 ---
+
+## 🔁 Analog vs Digital
+ 
+### Analog Data
+- Data is **continuous**
+- Can take **any value** within a range
+- **Examples:** Temperature, sound, voice
+### Digital Data
+- Data has **discrete (fixed) values**
+- Represented using **binary (0 and 1)**
+- **Examples:** Computer data, text, numbers
+---
+ 
+### Analog Signal
+- A **continuous electrical wave**
+- Used to carry **analog information**
+### Digital Signal
+- A series of **electrical pulses (bits)**
+- Used to carry **digital information**
+---
+ 
