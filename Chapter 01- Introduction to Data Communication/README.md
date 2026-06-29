@@ -105,3 +105,24 @@ Converts the electrical signal into a **usable form**.
 - Used to carry **digital information**
 ---
  
+## 🔄 Information Representation Using Analog Signals
+ 
+- Information can be represented by analog signals
+- Analog signals are **difficult to process directly**
+- Must be **converted (digitized)** into digital form
+- Computers process data in **binary (0 and 1)**
+---
+ 
+## ✅ Advantages of Digitization
+ 
+| # | Advantage |
+|---|-----------|
+| 1 | Information can be **processed by computers** |
+| 2 | Easy to send data over **Internet and networks** |
+| 3 | **Reduces quality loss** during transmission |
+| 4 | Supports **computer-based processing** |
+| 5 | Provides **programmable services** |
+| 6 | **Better quality** by reconstructing exact digital data |
+| 7 | Allows **faster communication speeds** |
+ 
+---
