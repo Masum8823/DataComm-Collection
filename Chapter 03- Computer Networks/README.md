@@ -30,3 +30,13 @@ In a computer network, computers and other devices are connected to share data, 
 </details>
 
 ---
+
+## 🗂️ Categories of Networks
+ 
+### 1️⃣ Local Area Network (LAN)
+ 
+- Covers a small area (home, school, office, or one building)
+- Smallest type of network
+- High-speed network (about 100 Mbps or more)
+- Used for local communication
+- **Example:** School or office network
