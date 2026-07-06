@@ -131,3 +131,26 @@ Every node is connected to multiple other nodes, providing alternate paths for d
 </details>
 
 ---
+
+### 2. Star Topology
+ 
+All devices are connected to a central hub or switch. Commonly used in LANs.
+ 
+<details>
+<summary><b>✅ Advantages</b></summary>
+
+- Easy to install and maintain
+- Easy to detect problems
+- One cable per device
+- Centralized control
+</details>
+<details>
+<summary><b>❌ Disadvantages</b></summary>
+
+- Uses more cable
+- Difficult to expand
+- If the central device fails, the whole network stops
+</details>
+
+---
+ 
