@@ -49,3 +49,14 @@ In a computer network, computers and other devices are connected to share data, 
 - Connects multiple LANs
 - Speed is lower than LAN but higher than WAN
 - **Example:** A bank connecting its branches within Dhaka city
+
+---
+
+### 3️⃣ Wide Area Network (WAN)
+ 
+- Covers very large areas such as countries or continents
+- Largest type of network
+- Connects multiple LANs and MANs
+- The Internet is the largest WAN
+- **Example:** Banking network across different countries
+---
