@@ -175,4 +175,25 @@ All devices share a single communication cable (bus). Terminators are placed at 
 </details>
 
 ---
+
+### 4. Ring Topology
+ 
+Each node is connected to two neighboring nodes. Data travels in one direction around the ring.
+ 
+<details>
+<summary><b>✅ Advantages</b></summary>
+
+- Uses less cable
+- No central device is needed
+- Suitable for fiber-optic communication
+</details>
+<details>
+<summary><b>❌ Disadvantages</b></summary>
+
+- Failure of one node can stop the network
+- Fault detection is difficult
+- Network changes are difficult
+</details>
+
+---
  
