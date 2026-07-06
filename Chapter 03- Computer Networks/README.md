@@ -71,3 +71,22 @@ In a computer network, computers and other devices are connected to share data, 
 | **Example** | School, Office | City Bank Network | Internet |
  
 ---
+
+## 🔌 Physical Structures
+ 
+### Types of Connection
+ 
+<details>
+<summary><b>1. Point-to-Point Connection</b></summary>
+
+- Connects one sender to one receiver.
+- Used for direct communication between two devices.
+</details>
+<details>
+<summary><b>2. Multipoint Connection</b></summary>
+
+- One transmission is shared by multiple devices.
+- One sender can communicate with many receivers.
+</details>
+
+---
