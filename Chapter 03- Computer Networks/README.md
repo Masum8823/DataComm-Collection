@@ -153,4 +153,26 @@ All devices are connected to a central hub or switch. Commonly used in LANs.
 </details>
 
 ---
+
+### 3. Bus Topology
+ 
+All devices share a single communication cable (bus). Terminators are placed at both ends to stop signal reflection. Usually uses a coaxial cable.
+ 
+<details>
+<summary><b>✅ Advantages</b></summary>
+
+- Simple wiring
+- Uses less cable
+- Easy to extend
+</details>
+<details>
+<summary><b>❌ Disadvantages</b></summary>
+
+- Difficult to find faults
+- Difficult to isolate problems
+- Main cable failure affects the whole network
+- Requires intelligent nodes
+</details>
+
+---
  
