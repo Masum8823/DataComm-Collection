@@ -90,3 +90,19 @@ In a computer network, computers and other devices are connected to share data, 
 </details>
 
 ---
+
+### Physical Topology
+ 
+- **Physical topology** is the physical arrangement of devices in a network.
+- It shows how devices and communication links are connected.
+---
+ 
+## 📡 Types of Transmission
+ 
+| Type | Description |
+|---|---|
+| **Unicast** | One sender → One receiver |
+| **Broadcast** | One sender → All devices |
+| **Multicast** | One sender → A selected group of devices |
+ 
+---
