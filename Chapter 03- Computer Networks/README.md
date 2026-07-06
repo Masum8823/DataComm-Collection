@@ -106,3 +106,28 @@ In a computer network, computers and other devices are connected to share data, 
 | **Multicast** | One sender → A selected group of devices |
  
 ---
+
+## 🕸️ Network Topology
+ 
+### 1. Mesh Topology
+ 
+Every node is connected to multiple other nodes, providing alternate paths for data. Used in large and reliable networks.
+ 
+<details>
+<summary><b>✅ Advantages</b></summary>
+
+- Supports multiple data transmissions at the same time
+- Failure of one node does not stop the network
+- Handles heavy network traffic
+- Easy to find faults
+</details>
+<details>
+<summary><b>❌ Disadvantages</b></summary>
+
+- Requires many cable connections
+- Expensive and complex
+- Creates redundant (extra) connections
+- Number of links = **n(n−1)/2**
+</details>
+
+---
