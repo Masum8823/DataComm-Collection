@@ -60,3 +60,14 @@ In a computer network, computers and other devices are connected to share data, 
 - The Internet is the largest WAN
 - **Example:** Banking network across different countries
 ---
+
+## ⚖️ LAN vs MAN vs WAN
+ 
+| Feature | LAN | MAN | WAN |
+|---|---|---|---|
+| **Coverage** | Small area | A city | Countries or continents |
+| **Speed** | Fastest | Medium speed | Slower than LAN |
+| **Connects** | Devices in one building | Multiple LANs | LANs and MANs |
+| **Example** | School, Office | City Bank Network | Internet |
+ 
+---
