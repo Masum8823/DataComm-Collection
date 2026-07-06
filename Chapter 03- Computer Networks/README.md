@@ -40,3 +40,12 @@ In a computer network, computers and other devices are connected to share data, 
 - High-speed network (about 100 Mbps or more)
 - Used for local communication
 - **Example:** School or office network
+
+---
+
+### 2️⃣ Metropolitan Area Network (MAN)
+ 
+- Covers a larger area than LAN, usually a city
+- Connects multiple LANs
+- Speed is lower than LAN but higher than WAN
+- **Example:** A bank connecting its branches within Dhaka city
