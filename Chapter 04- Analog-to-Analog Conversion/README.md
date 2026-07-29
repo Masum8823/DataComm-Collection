@@ -29,3 +29,13 @@ Good question — the signal is *already* analog, so why modulate it again?
  
 ---
 
+## <a id="types"></a>🔀 Types of Analog-to-Analog Conversion
+
+There are 3 main types:
+1. Amplitude Modulation (AM)
+2. Frequency Modulation (FM)
+3. Phase Modulation (PM)
+
+All three use a **carrier signal**, which has 3 properties: **Amplitude, Frequency, and Phase**. In each type of modulation, only ONE of these properties changes — the other two stay fixed.
+
+---
