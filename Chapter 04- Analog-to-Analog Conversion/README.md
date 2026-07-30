@@ -39,3 +39,25 @@ There are 3 main types:
 All three use a **carrier signal**, which has 3 properties: **Amplitude, Frequency, and Phase**. In each type of modulation, only ONE of these properties changes — the other two stay fixed.
 
 ---
+
+### <a id="am"></a>📻 Amplitude Modulation (AM)
+
+In AM, the **amplitude** of the carrier signal changes to match the changing amplitude of the information (modulating) signal.
+
+- ✅ What changes: **Amplitude**
+- ❌ What stays the same: Frequency, Phase
+
+```
+Carrier:     /\  /\  /\  /\  /\
+            /  \/  \/  \/  \/  \
+
+Modulating:      ___
+             ___/    \___
+
+AM Signal:   /\    /\  /\
+            /  \  /  \/  \    ← amplitude grows/shrinks with the info signal
+```
+
+> 🧠 **Analogy:** Think of turning the volume knob up and down on a radio while a song plays — the pitch of the sound stays exactly the same, only how loud or soft it is changes. That's AM in action.
+
+---
