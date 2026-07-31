@@ -61,3 +61,26 @@ AM Signal:   /\    /\  /\
 > 🧠 **Analogy:** Think of turning the volume knob up and down on a radio while a song plays — the pitch of the sound stays exactly the same, only how loud or soft it is changes. That's AM in action.
 
 ---
+
+### <a id="fm"></a>📡 Frequency Modulation (FM)
+
+In FM, the **frequency** of the carrier signal changes to match the changing voltage level (amplitude) of the modulating signal.
+
+- ✅ What changes: **Frequency**
+- ❌ What stays the same: Peak Amplitude, Phase
+
+```
+Carrier:     /\/\/\/\/\/\/\/\
+
+Modulating:      ___
+             ___/    \___
+
+FM Signal:   /\/\/\/\  /\/\/\/\/\/\
+             ↑ tightly packed        ↑ spread out
+             (high frequency, when   (low frequency, when
+              info amplitude is high) info amplitude is low)
+```
+
+> 🧠 **Analogy:** Think of someone singing and changing the pitch of their voice depending on how emotional the moment is — whether they sing loud or soft doesn't matter here, only how "high" or "low" the note is changes. That's FM. This is why FM radio sounds so much cleaner — background noise usually messes with amplitude, not frequency, so FM signals resist noise better than AM.
+
+---
