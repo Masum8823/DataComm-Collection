@@ -61,3 +61,16 @@ PAM pulses:      |  ||  |||  ||  |
 - The original signal is recovered using a **Low Pass Filter (LPF)** with the correct cutoff frequency
 
 **Problem:** Even after using an LPF, the recovered signal may still have **distortion (noise)** — because in natural PAM, the top of each pulse actually follows the shape of the signal during the sampling time, not a fixed flat value, which makes clean recovery harder.
+
+---
+
+### <a id="flat-top"></a>🏔️ Flat-top Sampling
+
+**Definition:** Flat-top Sampling is a sampling method where the **top of each pulse remains flat (constant)** during the sampling time.
+
+**Advantages:**
+- Reduces distortion
+- Makes signal recovery easier
+- Simplifies circuit design
+
+> 🧠 **Analogy:** Natural PAM is like tracing the exact bumpy top of a hill with your finger (still a bit shaky/inaccurate). Flat-top sampling is like placing a flat book on top of the hill at that instant — much easier to measure and work with.
