@@ -84,3 +84,25 @@ FM Signal:   /\/\/\/\  /\/\/\/\/\/\
 > 🧠 **Analogy:** Think of someone singing and changing the pitch of their voice depending on how emotional the moment is — whether they sing loud or soft doesn't matter here, only how "high" or "low" the note is changes. That's FM. This is why FM radio sounds so much cleaner — background noise usually messes with amplitude, not frequency, so FM signals resist noise better than AM.
 
 ---
+
+### <a id="pm"></a>🌊 Phase Modulation (PM)
+
+In PM, the **phase** of the carrier signal changes to match the changing voltage level (amplitude) of the modulating signal.
+
+- ✅ What changes: **Phase**
+- ❌ What stays the same: Peak Amplitude, Frequency
+
+```
+Carrier:      /\  /\  /\  /\
+
+Modulating:       ___
+              ___/    \___
+
+PM Signal:    /\ /\    /\  /\
+              ↑ the wave shifts slightly earlier/later
+                 in time, depending on the info signal
+```
+
+> 🧠 **Analogy:** PM often looks a lot like FM on a graph, and that's because phase and frequency are mathematically linked (frequency is basically the *rate of change* of phase). So the waveforms look similar, but what's actually being controlled underneath is different — timing/shift (phase) instead of speed (frequency).
+
+---
