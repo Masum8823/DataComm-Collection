@@ -106,3 +106,16 @@ PM Signal:    /\ /\    /\  /\
 > 🧠 **Analogy:** PM often looks a lot like FM on a graph, and that's because phase and frequency are mathematically linked (frequency is basically the *rate of change* of phase). So the waveforms look similar, but what's actually being controlled underneath is different — timing/shift (phase) instead of speed (frequency).
 
 ---
+
+## <a id="comparison"></a>📊 Comparison Table
+
+| Feature | AM | FM | PM |
+|---|---|---|---|
+| What changes | Amplitude | Frequency | Phase |
+| Amplitude constant? | ❌ No | ✅ Yes | ✅ Yes |
+| Frequency constant? | ✅ Yes | ❌ No | ✅ Yes |
+| Phase constant? | ✅ Yes | ✅ Yes | ❌ No |
+| Noise sensitivity | High | Low | Low |
+| Common use | AM Radio | FM Radio | Basis for digital modulation |
+
+---
