@@ -130,3 +130,12 @@ PM Signal:    /\ /\    /\  /\
 > Shortcut: whichever word (Amplitude / Frequency / Phase) is in the modulation's name — that's the ONE property that changes. The other two always stay constant. Once this clicks, you'll never mix them up again.
 
 ---
+## <a id="exam-notes"></a>📝 Exam Notes
+
+> 🎯 **Common exam questions to expect:**
+> - Define AM, FM, and PM, and explain the differences between them
+> - "Which property stays constant, which one changes" — the table above makes this instant recall
+> - Why modulation is needed at all (bandpass medium/channel) — this often shows up as a conceptual short-answer question
+> - Draw the diagram: carrier signal + modulating signal + resultant modulated signal
+
+---
