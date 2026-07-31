@@ -21,3 +21,17 @@ Pulse Modulation is a technique where a **periodic pulse train** is used as the 
 - [Exam Notes](#exam-notes)
 
 ---
+
+## <a id="pulse-modulation"></a>📶 What is Pulse Modulation?
+
+**Definition:** Pulse Modulation is a technique where a periodic pulse train is used as a carrier signal. The **amplitude**, **width**, or **position** of the pulses changes according to the analog message signal.
+
+**Why it is used:**
+- To transmit analog signals efficiently
+- Used in communication systems and power control
+
+> 🧠 **Real-life analogy:** Think of Morse code sent with a flashlight — you're not sending a continuous beam of light, you're sending a train of flashes (pulses). Depending on how bright the flash is, how long it lasts, or when it happens, you can encode different information. That's the whole idea behind pulse modulation — just applied to analog signals instead of dots and dashes.
+
+Every pulse has 3 properties we can play with: **Amplitude, Width, Position**. Change only one, keep the rest fixed — and that gives us PAM, PWM, and PPM.
+
+---
