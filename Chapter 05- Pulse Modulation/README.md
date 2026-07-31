@@ -74,3 +74,13 @@ PAM pulses:      |  ||  |||  ||  |
 - Simplifies circuit design
 
 > 🧠 **Analogy:** Natural PAM is like tracing the exact bumpy top of a hill with your finger (still a bit shaky/inaccurate). Flat-top sampling is like placing a flat book on top of the hill at that instant — much easier to measure and work with.
+
+### <a id="pam-comparison"></a>⚖️ Natural PAM vs Flat-top Sampling
+
+| Natural PAM | Flat-top Sampling |
+|---|---|
+| Pulse top follows the signal shape | Pulse top remains flat |
+| More distortion | Less distortion |
+| Recovery is difficult | Recovery is easier |
+
+---
