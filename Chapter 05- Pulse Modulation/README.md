@@ -35,3 +35,22 @@ Pulse Modulation is a technique where a **periodic pulse train** is used as the 
 Every pulse has 3 properties we can play with: **Amplitude, Width, Position**. Change only one, keep the rest fixed — and that gives us PAM, PWM, and PPM.
 
 ---
+
+## <a id="pam"></a>📊 Pulse Amplitude Modulation (PAM)
+
+**Definition:** PAM is an analog modulation technique where the **amplitude (height)** of each pulse changes according to the instantaneous amplitude of the message signal.
+
+**Key Points:**
+- ✅ Pulse amplitude changes
+- ❌ Pulse width and position remain the same
+- The PAM signal follows the shape of the original analog signal
+
+```
+Message signal:     ___
+                ___/    \___
+
+PAM pulses:      |  ||  |||  ||  |
+                  ↑ height of each pulse follows the message signal
+```
+
+> 🧠 **Analogy:** Imagine taking quick "snapshots" of a song's volume every few milliseconds, and drawing a bar for each snapshot whose height matches how loud the song was at that instant. Line up all the bars — that's a PAM signal.
