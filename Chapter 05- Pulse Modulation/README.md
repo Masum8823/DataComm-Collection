@@ -54,3 +54,10 @@ PAM pulses:      |  ||  |||  ||  |
 ```
 
 > 🧠 **Analogy:** Imagine taking quick "snapshots" of a song's volume every few milliseconds, and drawing a bar for each snapshot whose height matches how loud the song was at that instant. Line up all the bars — that's a PAM signal.
+
+### <a id="natural-pam"></a>🌿 Natural PAM
+
+- The analog signal is sampled at the **Nyquist rate**
+- The original signal is recovered using a **Low Pass Filter (LPF)** with the correct cutoff frequency
+
+**Problem:** Even after using an LPF, the recovered signal may still have **distortion (noise)** — because in natural PAM, the top of each pulse actually follows the shape of the signal during the sampling time, not a fixed flat value, which makes clean recovery harder.
