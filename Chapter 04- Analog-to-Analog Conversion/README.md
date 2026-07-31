@@ -119,3 +119,14 @@ PM Signal:    /\ /\    /\  /\
 | Common use | AM Radio | FM Radio | Basis for digital modulation |
 
 ---
+## <a id="memory-trick"></a>🧠 Memory Trick
+
+**"The name tells you what changes."**
+
+- **A**M → **A**mplitude changes
+- **F**M → **F**requency changes
+- **P**M → **P**hase changes
+
+> Shortcut: whichever word (Amplitude / Frequency / Phase) is in the modulation's name — that's the ONE property that changes. The other two always stay constant. Once this clicks, you'll never mix them up again.
+
+---
